@@ -22,6 +22,21 @@ From creating this project, I will learn the MERN (MongoDB, Express, React, Node
 - As a user, I want to be able to see logged gym sessions from other users
 
 
+## How to run the web application
+> npm i
 
+First you need a .env file with your own MongoDB database in the server directory.
+In your .env file it should look like this:
+> ATLAS_URI= mongodb+srv://database:<yourpassword>@usercluster.xiiyv.mongodb.net/?retryWrites=true&w=majority
+
+Then run the backend by:
+> cd server
+> npm start
+  or
+> node index.js
+
+Then run the react app:
+(make sure you are in root directory)
+> npm start
 
 
