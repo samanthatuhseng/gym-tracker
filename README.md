@@ -31,8 +31,9 @@ In your .env file it should look like this:
 
 Then run the backend by:
 > cd server
+>
 > npm start
-  or
+>
 > node index.js
 
 Then run the react app:
