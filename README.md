@@ -33,8 +33,6 @@ Then run the backend by:
 > cd server
 >
 > npm start
->
-> node index.js
 
 Then run the react app:
 (make sure you are in root directory)
