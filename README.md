@@ -1,4 +1,4 @@
-### gym tracker
+# gym tracker
 This application is to help track our gym sessions which includes details such as dates, description, and user. The user will create a user and can log their gym sessions. 
 
 This would be for anyone who wants to track their gym record.
@@ -14,7 +14,7 @@ From creating this project, I will learn the MERN (MongoDB, Express, React, Node
 - Utilized React routers to allow change in browser URL, created React components to handle events such as gym log by adding a constructor to initialize the state with an empty gym session array and to bind this to the methods I create, and return HTML
 - Installed Axios library to send HTTP requests to the backend allowing to create new users and gym sessions in the database
 
-# User Stories
+### User Stories
 - As a user, I want to be able to create a user to the database
 - As a user, I want to be able to log my gym sessions
 - As a user, I want to be able to display my logged gym sessions
